@@ -1,1 +1,1 @@
-[Click here](https://github.com/kirflash32/screamer/raw/main/image/завантаження.jpg)
+[Click here](https://github.com/kirflash32/screamer/raw/main/image/lalala.gif)
