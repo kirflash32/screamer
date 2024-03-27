@@ -1,1 +1,1 @@
-![Click here](https://github.com/kirflash32/screamer/raw/master/image/scream.gif)
+[Click here](https://github.com/kirflash32/screamer/raw/main/image/scream.gif)
